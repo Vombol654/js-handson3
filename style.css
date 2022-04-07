@@ -1,0 +1,18 @@
+.pic img {
+  width: 200px;
+}
+.emp-1 {
+  border: 1px solid black;
+  width: 230px;
+}
+.emp-d {
+  margin-left: 15px;
+}
+.emp-1 {
+  display: inline-block;
+  vertical-align: top;
+}
+#am {
+  width: 150px;
+  display: none;
+}
